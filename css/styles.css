@@ -323,9 +323,6 @@ main {
 .team-icon-link:hover {
   background-color: #404bbf;
 }
-.team-icon-link:active {
-  background-color: #404bbf;
-}
 .team-icon-link:focus {
   background-color: #404bbf;
 }
