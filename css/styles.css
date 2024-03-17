@@ -326,6 +326,9 @@ main {
 .team-icon-link:focus {
   background-color: #404bbf;
 }
+.team-icon-link:active {
+  background-color: #404bbf;
+}
 .social-icon {
   fill: #f4f4fd;
 }
@@ -478,6 +481,9 @@ main {
   background-color: #31d0aa;
 }
 .footer-icon-link:focus {
+  background-color: #31d0aa;
+}
+.footer-icon-link:active {
   background-color: #31d0aa;
 }
 .social-icon {
